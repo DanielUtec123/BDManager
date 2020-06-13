@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/CLionProjects/BaseDeDatos/BaseDeDatos.h
+config.h
+/home/daniel/CLionProjects/BaseDeDatos/config.h
+iostream
+-
+string
+/home/daniel/CLionProjects/BaseDeDatos/string
+vector
+-
+fstream
+/home/daniel/CLionProjects/BaseDeDatos/fstream
+Tabla.h
+/home/daniel/CLionProjects/BaseDeDatos/Tabla.h
+
+/home/daniel/CLionProjects/BaseDeDatos/Tabla.h
+
+/home/daniel/CLionProjects/BaseDeDatos/config.h
+
+/home/daniel/CLionProjects/BaseDeDatos/main.cpp
+iostream
+-
+BaseDeDatos.h
+/home/daniel/CLionProjects/BaseDeDatos/BaseDeDatos.h
+
